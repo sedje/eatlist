@@ -9,4 +9,4 @@ complex meals for the weekends.
 
 Ultimately to also include the meal's ingredients and create a full fledged
 shopping list for our own local supermarket including the right order of 
-products as they are in the supermarket would be the long term goal.
+products as they are in the supermarket would be the long term goal.x
