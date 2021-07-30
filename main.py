@@ -54,7 +54,7 @@ def get_meals():
 
     menu_items = []
     while len(menu_items) < 7:
-        if len(menu_items) < 2:
+        if len(menu_items) < 2 and complex_meals:
             new_item = random.choice(complex_meals)
         else:
             new_item = random.choice(easy_meals)
